@@ -72,7 +72,7 @@ body {
   -webkit-box-flex: auto;
   -ms-flex: auto;
   flex: auto;
-  width: 100px;
+  width: 100%;
   margin: .5vw;
 }
 
