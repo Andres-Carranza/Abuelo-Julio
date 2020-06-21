@@ -101,7 +101,7 @@ body {
   width: 100%;
 }
 
-.profile-content-wrapper h1 {
+.profile-content-wrapper h1 pre{
   color: lightseagreen;
   font-size: xx-large;
 }
